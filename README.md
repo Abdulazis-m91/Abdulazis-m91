@@ -1,4 +1,4 @@
-## Hi there, I'm Abdul Azis 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulazis-f91) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulazis.my.id)
+# Hi there, I'm Abdul Azis 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulazis-f91) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulazis.my.id)
 
 <!--
 **Abdulazis-m91/Abdulazis-m91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
