@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there,  I'm Abdul Azis 👋
 
 <!--
 **Abdulazis-m91/Abdulazis-m91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
