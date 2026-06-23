@@ -56,7 +56,7 @@ and user-focused applications.
 
 <br/>
 
-<img width="765" src="https://streak-stats.demolab.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800"/>
+<img width="785" src="https://streak-stats.demolab.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800"/>
 
 </div>
 ---
