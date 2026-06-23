@@ -53,8 +53,21 @@ and user-focused applications.
 ## 📊 GitHub Stats
 <br/>
 
+### 📊 GitHub Stats
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulazis-m91&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazis-m91&layout=donut&theme=dark&card_width=320"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Abdulazis-m91&show_icons=true&theme=dark&card_width=320"/>
+
+<br/>
+
+<img width="665" src="https://streak-stats.demolab.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800"/>
+
 </div>
 
 ---
