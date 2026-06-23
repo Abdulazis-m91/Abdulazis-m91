@@ -53,7 +53,8 @@ and user-focused applications.
 ## 📊 GitHub Stats
 <br/>
 <div align="center">
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazis-m91&layout=donut&theme=dark&card_width=320&cache_seconds=1800"/><img height="185" src="https://github-readme-stats.vercel.app/api?username=Abdulazis-m91&show_icons=true&theme=dark&card_width=320&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazis-m91&layout=donut&theme=dark&card_width=320&cache_seconds=1800"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Abdulazis-m91&show_icons=true&theme=dark&card_width=320&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
 <br/>
 <img src="https://streak-stats.demolab.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800"/>
