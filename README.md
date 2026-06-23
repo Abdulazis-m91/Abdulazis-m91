@@ -51,9 +51,14 @@ and user-focused applications.
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazis-m91&layout=donut&theme=dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazis-m91&layout=donut&theme=dark)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulazis-m91&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800)](https://git.io/streak-stats)
+
 
 </div>
 
 ---
-<img src ="https://camo.githubusercontent.com/37883583d7fd5c3be410991d925b6e8b1a095b1244ebeed0ead2838f944e947d/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d4a616371756172642b31322673697a653d34302670617573653d3130303026636f6c6f723d4637354330332663656e7465723d74727565267643656e7465723d747275652677696474683d373030266865696768743d3630266c696e65733d446f6e27742b466f726765742b746f2b466f6c6c6f7721">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" />
+</div>
