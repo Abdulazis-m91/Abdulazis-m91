@@ -52,7 +52,7 @@ and user-focused applications.
 <div align="center">
 
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazis-m91&layout=donut&theme=dark"/>
-<img height="220" src="https://github-readme-stats.vercel.app/api?username=Abdulazis-m91&show_icons=true&theme=dark&hide_border=false"/>
+<img height="300" src="https://github-readme-stats.vercel.app/api?username=Abdulazis-m91&show_icons=true&theme=dark&hide_border=false"/>
 
 <img width="500" src="https://streak-stats.demolab.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800"/>
 
