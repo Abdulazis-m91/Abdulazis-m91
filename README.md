@@ -34,6 +34,8 @@ and user-focused applications.
 
 **Talking about Personal Stuffs:** <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="25"/>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="200"/>
+
 - 🔭 &nbsp; I'm currently building new IoT & Web integrated products under JQ Tech Solution;
 - 🌱 &nbsp; I'm currently leveling up in System Design, Docker, and LLM Integration;
 - 👯 &nbsp; I'm open to freelance projects and open source collaboration;
@@ -59,6 +61,7 @@ and user-focused applications.
 <img width="785" src="https://streak-stats.demolab.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800"/>
 
 </div>
+
 ---
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" />
