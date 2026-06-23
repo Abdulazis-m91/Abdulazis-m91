@@ -65,7 +65,7 @@ and user-focused applications.
 
 </div>
 
----
+<hr style="border: 0.5px solid #30363d"/>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" />
 </div>
