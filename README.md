@@ -51,10 +51,10 @@ and user-focused applications.
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazis-m91&layout=donut&theme=dark)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulazis-m91&show_icons=true&theme=dark)
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazis-m91&layout=donut&theme=dark"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Abdulazis-m91&show_icons=true&theme=dark&hide_border=false"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800)](https://git.io/streak-stats)
-
+<img width="500" src="https://streak-stats.demolab.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800"/>
 
 </div>
 
