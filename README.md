@@ -51,15 +51,14 @@ and user-focused applications.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazis-m91&layout=donut&theme=dark&card_width=300"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdulazis-m91&show_icons=true&theme=dark&card_width=300"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazis-m91&layout=donut&theme=dark&card_width=320"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Abdulazis-m91&show_icons=true&theme=dark&card_width=320"/>
 
 <br/>
 
-<img width="495" src="https://streak-stats.demolab.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800"/>
+<img width="665" src="https://streak-stats.demolab.com?user=Abdulazis-m91&theme=dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800"/>
 
 </div>
-
 ---
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" />
