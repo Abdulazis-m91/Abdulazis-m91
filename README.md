@@ -39,7 +39,7 @@ and user-focused applications.
 - 👯 &nbsp; I'm open to freelance projects and open source collaboration;
 - 💬 &nbsp; Ask me about React, TypeScript, PHP, Laravel, MySQL, or IoT systems. I am happy to help;
  
-![abdulazis.dev1@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.linkedin.com/in/abdulazis-f91](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [![abdulazis.my.id](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulazis.my.id)
+[![abdulazis.dev1@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdulazis.dev1@gmail.com) [![https://www.linkedin.com/in/abdulazis-f91](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulazis-f91) [![https://www.instagram.com/jqueryaziz](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jqueryaziz) [![abdulazis.my.id](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulazis.my.id)
 
 <br/>
 
@@ -66,5 +66,3 @@ and user-focused applications.
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" />
 </div>
-
-
